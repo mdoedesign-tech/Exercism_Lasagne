@@ -48,8 +48,3 @@ elapsed_time_in_minutes(3, 20)
 # Returns: 26
 ```
 
-## Notes
-
-This exercise references  
-:contentReference[oaicite:1]{index=1},  
-the creator of Python.
